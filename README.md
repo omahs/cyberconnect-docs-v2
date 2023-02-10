@@ -55,6 +55,6 @@ This command updates auto-generated code. Include them into the commit.
 
 These are our communication channels, so feel free to contact us:
 
-- [Discord](https://discord.com/invite/cUc8VRGmPs) ``#developers`` channel
+- [Discord](https://discord.gg/cyberconnect) ``#developers`` channel
 - [@CyberConnectHQ](https://twitter.com/CyberConnectHQ) on Twitter
 - [Github](https://github.com/cyberconnecthq/cyberconnect-docs-v2/issues) for issues
